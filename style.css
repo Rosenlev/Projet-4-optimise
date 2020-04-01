@@ -9,8 +9,7 @@ body {
 
 .li
 {
-    min-width: 48px;
-    min-height: 48px;
+    font-size: 12px;
 }
 a,
 button {
@@ -797,15 +796,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #cf764d;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #cf764d!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #cf764d;
     color: #FFFFFF!important;
 }
 
@@ -823,7 +822,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #cf764d!important;
 }
 
 .ltc-atomic-tangerine:hover {
