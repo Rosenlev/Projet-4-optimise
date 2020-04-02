@@ -10,16 +10,23 @@ body {
 ul
 {
     
-    font-size: 20px;
+    min-width: 48px;
+    min-height: 48px;
 }
+
 .li
 {
     color: #1b1b1b;
+    
+    min-width: 48px;
+    min-height: 48px;
 }
 
 a
 {
     margin: 8px;
+    min-width: 48px;
+    min-height: 48px;
 }
 
 a,
