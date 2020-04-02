@@ -7,27 +7,23 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
 ul
 {
     
-    min-width: 48px;
-    min-height: 48px;
+    line-height: 3.5;
+    font-size: 14px;
+    padding-bottom: 48px;
+    padding-right: 40px;
 }
 
 .li
 {
     color: #1b1b1b;
-    
-    min-width: 48px;
-    min-height: 48px;
+    line-height: 3;
 }
 
-a
-{
-    margin: 8px;
-    min-width: 48px;
-    min-height: 48px;
-}
+
 
 a,
 button {
