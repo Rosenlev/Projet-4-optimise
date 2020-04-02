@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.row-row-no-gutters-social
+{
+    line-height: 3.5;
+}
 
 ul
 {
