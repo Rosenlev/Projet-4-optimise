@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: 
+Disallow: /rosenlev.github.io/Projet-4-optimise/img/la-chouette-agence-banniere.jpg
+Disallow: /rosenlev.github.io/Projet-4-optimise/img/image-de-presentation.jpg
+
+Sitemap: https://rosenlev.github.io/Projet-4-optimise/index.html
