@@ -7,6 +7,15 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+input:focus {
+    background-color: yellow;
+  }
+
+textarea:focus
+{
+    background-color: yellow;
+}
+
 .row-row-no-gutters-social
 {
     line-height: 3.5;
