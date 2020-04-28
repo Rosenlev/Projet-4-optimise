@@ -9,11 +9,16 @@ body {
 
 input:focus {
     background-color: yellow;
+    outline: thin dotted orange;
   }
+
+.btn:focus 
+  {outline: thin dotted orange; } 
 
 textarea:focus
 {
     background-color: yellow;
+    outline: thin dotted orange;
 }
 
 .row-row-no-gutters-social
@@ -46,7 +51,6 @@ ul
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
 }
 
 a:hover {
@@ -392,6 +396,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    outline: thin dotted orange;
 }
 
 .navbar-toggle {
@@ -515,11 +520,9 @@ nav .caret {
 .btn-d:focus {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
+    outline: thin dotted orange;
 }
 
-button {
-    outline: none!important;
-}
 
 .btn-rd {
     border-radius: 40px;
